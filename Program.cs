@@ -1,4 +1,6 @@
-﻿namespace POO
+﻿using POO.LogicaProgramacao.SaidaDadosCSharp;
+
+namespace POO
 {
     class Program
     {

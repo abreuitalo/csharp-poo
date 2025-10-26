@@ -2,7 +2,7 @@
 {
     public class SaidaDados
     {
-        static void Main (string[] args)
+        public static void SaidaDado ()
         {
             Console.WriteLine("Hello World");
             Console.Write("Hello World");
